@@ -106,9 +106,3 @@ The notebooks were built for Google Colab and mount Google Drive for file storag
 │   └── created/                 # Intermediate & final processed datasets
 └── README.md
 ```
-
-## Future Improvements
-
-- Incorporate deep learning models (LSTM, BERT-based transformers) for comparison against classical ML baselines.
-- Replace sentiment-based pseudo-labeling with a human-verified or more robust weak-supervision approach.
-- Expand external lexical/semantic resources (subjectivity lexicons, POS-tag features) as noted in the original methodology.
